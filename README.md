@@ -21,7 +21,7 @@ A modern web application that transforms Excel invoices into professionally form
 
 ## 🚀 Demo
 
-[Live Demo]([https://your-app-url.streamlit.app](https://pdf-invoices-maker.streamlit.app/)) *(Add your deployed URL here)*
+[Live Demo](https://pdf-invoice-converter-app.streamlit.app/) 
 
 ## 📋 Prerequisites
 
